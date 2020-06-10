@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "cursoIniciacionAngular8"
+  "defaultProject": "cursoIniciacionAngular8",
+  "cli": {
+    "analytics": false
+  }
 }
